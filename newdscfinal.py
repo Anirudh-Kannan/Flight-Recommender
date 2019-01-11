@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 10 19:31:09 2018
-
-@author: jainil
-"""
-
-# -*- coding: utf-8 -*-
 from tkinter import *
 import os
      
