@@ -6,6 +6,6 @@ Tkinter is used to provide an interactive GUI experience
 
 Instructions:
 
-1.Place the image and the python file in the same directory
+1. Place the image and the python file in the same directory
 
-2.Use the cd command from the terminal to navigate to the directory and execute the python file
+2. Use the cd command from the terminal to navigate to the directory and execute the python file
